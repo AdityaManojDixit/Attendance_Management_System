@@ -32,17 +32,17 @@ improvement is needed.
 
 ## Task Breakdown
 
-- **Module 1: User Authentication** (`authentication.py`)
+- **Module 1: User Authentication** 
 - Provides user registration and login functionality.
 
-- **Module 2: Student Information Management** (`student.py`)
+- **Module 2: Student Information Management** 
 - Manages student records, including addition, viewing, updating, and deletion.
 
-- **Module 3: Marking Attendance** (`attendance.py`)
+- **Module 3: Marking Attendance** 
 - Enables marking attendance for students on specified dates.
 
-- **Module 4: Viewing Attendance Records** (`attendance.py`)
+- **Module 4: Viewing Attendance Records** 
 - Allows users to view individual attendance records and filter by date range.
 
-- **Module 5: Generating Reports** (`attendance.py`)
+- **Module 5: Generating Reports** 
 - Generates attendance reports, summaries, and exports them to CSV files.
